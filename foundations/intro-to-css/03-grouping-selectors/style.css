@@ -1,1 +1,4 @@
 /* Add CSS Styling */
+.click, .nclick {font-size: 28px; font-family: Helvetica, 'Times New Roman', sans-serif;}
+.click {color: white; background-color: black;}
+.nclick {background-color: rgb(250, 250, 3);}
